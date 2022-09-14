@@ -1,2 +1,2 @@
-# portfolio
-This is my portfolio!
+# Portfolio - Jamie Catto
+##This is my portfolio!
